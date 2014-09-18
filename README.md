@@ -1,2 +1,1 @@
-test
-====
+JSON array example
